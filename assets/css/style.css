@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: "PoppinsLocal" ;
+    src: url(../fonts/Poppins/Poppins-Black.ttf); format("trutype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap ;
+}
+
+
+
+
+*{
+    font-family: "PoppinsLocal";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #000000;
+}
+
+
+
+
+
+header{
+    background-color: #ffff;
+    height: 53px;
+    display: flex;
+    padding: 0 16px;
+}
+
+
+
+
+
+
+
+
+
+
