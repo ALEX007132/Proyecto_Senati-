@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: "PoppinsLocal" ;
-    src: url(../fonts/Poppins/Poppins-Black.ttf); format("trutype");
+    src: url(../fonts/Poppins/Poppins-Black.ttf), format("trutype");
     font-weight: normal;
     font-style: normal;
     font-display: swap ;
@@ -33,9 +33,17 @@ header{
     padding: 0 16px;
 }
 
+.img-logo{
+    height: 32px;
+    width: auto;
+    display: block;
+}
 
+.lef-img{
+display: flex;
+align-items: center;
 
-
+}
 
 
 
